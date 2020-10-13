@@ -85,6 +85,15 @@ Open postman
 
 ```
 
+### .Net Core MVC
 
+For dontet you can simple create a mvc project using following command:
 
+```sh
+
+ dotnet new mvc --auth SingleOrg --client-id <<client_id>> --tenant-id <<tenant-id>> --domain <<domain-name>>
+ 
+ ```
+
+Once done then you can do dotnet run!
  
